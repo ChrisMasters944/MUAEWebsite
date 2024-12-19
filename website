@@ -19,7 +19,7 @@
     </style>
 </head>
 <body>
-    <h1>Type Your Text Below</h1>
-    <textarea placeholder="Type something here..."></textarea>
+    <h1>Raft Soundtrack</h1>
+    <textarea placeholder="This is about Raft's sountrack..."></textarea>
 </body>
 </html>
